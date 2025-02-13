@@ -2,6 +2,7 @@ import HelpBox from './HelpBox';
 import './HelpArea.css';
 //adadad
 //fafaf
+//dadadada
 const HELP_ITEMS = [
   {
     id: 'h1',
